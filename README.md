@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Mike Hilinsky 
-- 👀 I’m interested in ...   CyberSecurity, Learning, SOC, Blueteam with red team mindset..
-- 🌱 I’m currently learning ... Preacitcal Ethical Hacking by Cyber Mentor 
-- 💞️ I’m looking to collaborate on ... outsourse  or anything really.
-- 📫 How to reach me ... twitter Nyc0N_6
+->>> 2025 Ai is Now.... 
+Prompt...
 
 <!---
 Nycon6/Nycon6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
